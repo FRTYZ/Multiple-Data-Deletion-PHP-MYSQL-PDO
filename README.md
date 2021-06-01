@@ -134,7 +134,7 @@ try {
 </script>
 ```
 
-#### 5) Include the "deleteall.js" file inside the </head> <head> tag to select all of the checkboxes. otherwise it doesn't work 
+#### 5) Add "deleteall.js" inside the <head> tag to select all checkboxes.
 ```
 <script src="deleteall.js"></script>
 ```
