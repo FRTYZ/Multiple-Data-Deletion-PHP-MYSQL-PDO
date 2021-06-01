@@ -4,7 +4,7 @@
 I will show you one click deletion of your multiple data with "Multiple Data Erase".
 
 #### Our Project Content
-* İn this process you can delete the data contacts (optional, available in source code)
+* Delete Multiple Data, delete photo of related data (Optional, available in source code)
 * Success and error alerts with SweatAlert
 
 ## İndex.php
